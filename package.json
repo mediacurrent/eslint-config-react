@@ -2,6 +2,17 @@
   "name": "@mediacurrent/eslint-config-react",
   "version": "0.0.1",
   "main": "index.js",
+  "keywords": [
+    "mediacurrent",
+    "eslint",
+    "eslint config",
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mediacurrent/eslint-config-react"
+  },
+  "homepage": "https://github.com/mediacurrent/eslint-config-react",
   "peerDependencies": {
     "eslint": ">= 3",
     "babel-eslint": "^10.1.0",
