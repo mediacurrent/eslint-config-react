@@ -1,4 +1,4 @@
-# eslint-config-react
+# @mediacurrent/eslint-config-react
 
 This is Mediacurrent's ESLint config for React projects.
 
